@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+$site-font: 'Stem','Raleway', sans-serif;
+
+$light-gray: rgb(240, 240, 240);
+$dark-gray: rgb(80, 80, 80);
+$white: white;
+
+@font-face {
+    font-family: "Stem";
+    src: url("../fonts/Stem_regular.woff2") format("woff2")
+}
